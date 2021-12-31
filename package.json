@@ -5,9 +5,9 @@
   "version": "2.0.0",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
+    "name": "Ashley Chong",
+    "email": "akchong@bu.edu",
+    "url": "https://github.com/ashleychong1"
   },
   "dependencies": {
     "axios": "^0.19.2",
