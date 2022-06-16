@@ -135,14 +135,24 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Network Operations Resident',// Here Add Company Name
+      companylogo: require('../assets/img/google.png'),
+      date: 'July 2022 – Present',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Solutions Engineer Intern',
+      companylogo: require('../assets/img/netapp.png'),
+      date: 'June 2021 – August 2021',
+    },
+    {
+      role: 'Technical Fellow',
+      companylogo: require('../assets/img/buspark.png'),
+      date: 'September 2021 – May 2022',
+    },
+    {
+      role: 'Equity Research Analyst Intern',
+      companylogo: require('../assets/img/hexa.png'),
+      date: 'June 2020 – August 2020',
     },
   ]
 }
